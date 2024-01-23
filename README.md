@@ -1,14 +1,14 @@
 <div align="center">
 
-<h1>Título do projeto</h1>
+<h1>Simple Calc</h1>
 
-Coloque uma breve descrição do projeto
+Uma calculadora para cálculos simples.
 
 </div>
 
 ## Descrição 📜
 
-Coloque uma descrição mais detalhada do projeto, como funciona, para que serve, etc.
+O projeto utiliza a função eval() do JavaScript para realizar os cálculos.
 
 ## Demo 🖥️
 
@@ -16,13 +16,9 @@ Coloque uma imagem/gif do projeto, colocar link da live demo também é uma boa 
 
 ## Tecnologias 🚀
 
-Coloque as tecnologias utilizadas no projeto, exemplo:
-
-- [React](https://pt-br.reactjs.org/)
-- [Next.js](https://nextjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Styled Components](https://styled-components.com/)
-- [Eslint](https://eslint.org/)
+- HTML
+- CSS
+- JavaScript
 
 ## Utilização 📦
 
@@ -30,13 +26,9 @@ Para utilizar, siga os passos abaixo:
 
 1. Clone o repositório
 ```
-git clone url/do/repositorio.git
+git clone git@github.com:lex-sucena/simple-calc.git
 ```
-2. Instale as dependências 
-
-```
-npm install
-```
+2. Abra o projeto em seu editor de código
 
 ## Autor 👩‍💻
 
@@ -51,6 +43,4 @@ Este projeto está sob a licença [GNU General Public License v3.0](./LICENSE).
 
 ## Agradecimentos 🤝🏻
 
-- [Tutorial de como fazer um README](https://www.youtube.com/watch?v=0RhtQgIs-TE)
-- [Shields.io](https://shields.io/) 
-- [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- [Tutorial de como fazer a calculadora](https://www.youtube.com/watch?v=I5kj-YsmWjM)
